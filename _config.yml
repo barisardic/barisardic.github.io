@@ -1,6 +1,6 @@
 # main text of home
 name: Barış Ardıç
-bio: A Creative Person With Weird Ideas
+bio: A creative person with a stream of ideas
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -38,7 +38,7 @@ disqus:
 #twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: barisardic
 # youtube: myyoutube
 # spotify: myspotify
 github: barisardic
@@ -50,7 +50,7 @@ github: barisardic
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-#email: myemail@gmail.com
+email: baris.ardic@bilkent.edu.tr
 
 authors:
   johndoe:
