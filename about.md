@@ -17,12 +17,3 @@ For my masters thesis, I have worked on how to teach code review best practices 
 <h1>Hobbies</h1>
 
 My non-professional interests are mainly cooking and tabletop gaming. I find that cooking is a great place to improvise almost as much as  <a href="https://en.wikipedia.org/wiki/Dungeon_Master">DM’ing</a> a game of  <a href="https://en.wikipedia.org/wiki/Dungeons_%26_Dragons">DnD</a> for my friends.
-
-
-
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
