@@ -10,7 +10,7 @@ I am an inspiring academic who believes that the modern software engineering pro
 
 <h1>Background</h1>
 
-I am a PhD candidate in TU Delft Software Engineering Research Group. My current work focuses on software testing expertise.
+I am a PhD candidate in <a href="https://scholar.google.com/citations?user=D4jovncAAAAJ">TU Delft Software Engineering Research Group</a>. My current work focuses on software testing expertise.
 
 I completed my masters degree under  <a href="https://scholar.google.com/citations?user=D4jovncAAAAJ">Eray Tüzün</a> in Bilkent University Software Engineering and Data Analytics Research Group  <a href="https://bilsen.cs.bilkent.edu.tr/">(BILSEN)</a>. 
 
